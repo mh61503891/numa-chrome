@@ -1,0 +1,12 @@
+#numakuro-wrapper {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  z-index: 1000;
+}
+#numakuro-img {
+  width: 200px;
+  height: 200px;
+}
