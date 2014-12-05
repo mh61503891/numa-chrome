@@ -8,7 +8,7 @@ Go! NUMAKURO! What shoud NUMAKURO do?
 
 ## How to install
 
-1. Download `numa-chrome.crx`.
+1. Download `numa-chrome.crx` available at [https://github.com/mh61503891/numa-chrome/raw/master/numa-chrome.crx](https://github.com/mh61503891/numa-chrome/raw/master/numa-chrome.crx).
 2. Open [chrome://extensions/](chrome://extensions/) on your Chrome.
 3. Drag and drop `numa-chrome.crx` to the window.
 
